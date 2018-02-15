@@ -1,7 +1,7 @@
 /*
 Author:  Ajeet Kumar
          15/02/2018
-Problem: 
+Problem: Remove loop in Linked List if there exist.
 */
 	  int removeTheLoop(Node node) {
       Node low=node,high=node;
